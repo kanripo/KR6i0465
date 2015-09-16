@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 三慧經
+#+DATE: 2015-08-30 20:20:19.039241
+#+PROPERTY: JUAN 0
