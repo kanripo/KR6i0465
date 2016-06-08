@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:18.856779
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:41
 #+TITLE: 三慧經
 #+PROPERTY: CBETA_ID T17n0768
 #+PROPERTY: ID KR6i0465
